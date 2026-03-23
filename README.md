@@ -27,3 +27,4 @@ This project involved the design and implementation of a scalable relational dat
 * Schema Scalability: Designed to support thousands of concurrent student records without performance degradation.
 
 * Efficient Querying: Structured to allow complex joins for generating academic transcripts and departmental reports.
+
