@@ -3,7 +3,7 @@
 > **A Relational DBMS designed for academic record management and scalability.**
 > Database Design
 >![Database Relational Schema](./image_678d46.png)
-> ![Referential Integrity](./Screenshot 2026-03-23 135754.png)
+
 >
 >**Project Overview**
 > 
@@ -16,9 +16,7 @@ This project involved the design and implementation of a scalable relational dat
 
 * Normalization: Applied 3NF principles to ensure the database is optimized for both storage and query performance.
 
-* ![GUI & Data Entry Optimization](./Screenshot 2026-03-23 135429.png)
-* ![Analytical Reporting & Insights](./Screenshot 2026-03-23 135709.png)
-* ![Student Enrollment](./Screenshot 2026-03-23 135619.png)
+
 
 * I designed custom forms with built-in validation to ensure data quality at the point of entry.
 * 
