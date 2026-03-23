@@ -17,9 +17,9 @@ This project involved the design and implementation of a scalable relational dat
 
 **Relationships**:
 
-1:M (One-to-Many): Department to Professors; Department to Courses.
+* 1:M (One-to-Many): Department to Professors; Department to Courses.
 
-M:N (Many-to-Many): Students to Courses (via an associative 'Enrollment' table).
+* M:N (Many-to-Many): Students to Courses (via an associative 'Enrollment' table).
 
 **Key Features**
 * Referential Integrity: Enforced via Foreign Keys to prevent orphan records in enrollment data.
