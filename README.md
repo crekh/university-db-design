@@ -17,9 +17,14 @@ This project involved the design and implementation of a scalable relational dat
 * Normalization: Applied 3NF principles to ensure the database is optimized for both storage and query performance.
 
 
+## 🖥️ System Interface & User Experience
 
-* I designed custom forms with built-in validation to ensure data quality at the point of entry.
-* 
+### **Relational Architecture**
+The backbone of this system is a 3rd Normal Form (3NF) schema designed to eliminate redundancy. 
+![MS Access Relationships](./Screenshot_2026-03-23_135754.png)
+
+### **Automated Data Entry**
+I designed custom forms with built-in validation to ensure data quality at the point of entry. 
 * **Feature:** The Navigation Form provides a centralized "Command Center" for registrars to toggle between registration and assignment tasks.
 ![Student Registration Form](./Screenshot_2026-03-23_135429.png)
 
@@ -28,9 +33,10 @@ Leveraging complex SQL Joins, the system generates real-time reports for academi
 * **Course Roster:** Aggregates student data by course title and semester.
 * **Enrollment Summary:** Provides a student-centric view of academic history.
 <p align="center">
-  <img src="./Screenshot_2026-03-23_135619.png" width="45%" />
-  <img src="./Screenshot_2026-03-23_135709.png" width="45%" />
+  <img src="(./Screenshot_2026-03-23_135619.png" width="45%)" />
+  <img src="(./Screenshot_2026-03-23_135709.png" width="45%)" />
 </p>
+
 
 
 **Relationships**:
